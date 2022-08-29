@@ -1,6 +1,6 @@
 ---
-  title: 'RMarkdown:  In Class Assignment'
-author: "YOUR NAME HERE"
+title: 'RMarkdown:  In Class Assignment'
+author: "Pooja Patel"
 date: "Data 2401"
 output: html_document
 ---
@@ -21,14 +21,27 @@ Below the "Your work here" section header, do the following 3 things. To turn th
 
 1. Make a subsection called "Wise words". Put your favorite quote in a block quote. Add a functioning link to a website that provides more information about that quote.
 
+> "Learn as if you will live forever, live like you will die tomorrow" [https://www.shopify.com/blog/motivational-quotes]
+
 2. Make a subsection called "My semester". Make a three column table of the current courses you are taking, with separate columns for course number (put those in __bold__), course title (put those in _italics_), and instructor name.
+
+|**course number**|*course title*|Intructor name|
+|:----------------|:-------------|:-------------|
+|CS 2311|Data structures and Algortihms|John Henderson|
+|MATH 2305| Discreate Mathemathics|Iride Lazo|
+|MATH 3302|Probability and Statistics|Patrick King|
 
 3. Lastly, make subsection called "I recommend", and add some information about your favorite author or musician.
 
-+ A _subsubheading_ with the name of the artist or author;    
++ A _subsubheading_ with the name of the artist or author;
+# I recommend reading books by Shveta Thakrar.
 + An example of their writing or lyrics (formatted in a *plain code block*);   
-+ A _list_ of things they have written or performed (remember to use the formatting markup for a list!).     
+# this is the book "Star Daughter" I recommed to read. 
++ A _list_ of things they have written or performed (remember to use the formatting markup for a list!).    
 
+- Star Daughter
+- The Dream Runners
+- Uncanny Magazine (3 parts)
 
 Note that you can click "Knit" as you go along to see what the final results are going to look like. **Once you're done, commit the changes and push the repo back to your assignment on GitHub!**
  
